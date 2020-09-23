@@ -1,0 +1,6 @@
+{
+  "name": "hobr/samp-mail",
+  "require": {
+    "phpmailer/phpmailer": "^6.1"
+  }
+}

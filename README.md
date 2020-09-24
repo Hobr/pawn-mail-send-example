@@ -5,3 +5,5 @@ Send E-Mail in Pawn by PHP.
 ## Usage
 
 Edit .php and .pwn files.
+
+composer install
